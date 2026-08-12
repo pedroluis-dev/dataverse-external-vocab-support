@@ -1,0 +1,26 @@
+[
+  {
+    "field-name": "authorAffiliation",
+    "term-uri-field": "authorAffiliation",
+    "js-url": "/scripts/affiliation.js",
+    "protocol": "covoc-author",
+    "retrieval-uri": "",
+    "allow-free-text": true,
+    "languages": "",
+    "vocabs": {},
+    "managed-fields": {},
+    "retrieval-filtering": {}
+  },
+  {
+    "field-name": "keyword",
+    "term-uri-field": "keywordTermURI",
+    "js-url": "/scripts/brased.js",
+    "protocol": "covoc-brased",
+    "retrieval-uri": "",
+    "allow-free-text": true,
+    "languages": "",
+    "vocabs": {},
+    "managed-fields": {},
+    "retrieval-filtering": {}
+  }
+]
